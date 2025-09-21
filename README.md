@@ -54,12 +54,16 @@
 ---
 
 ## 📊 GitHub Stats  
-![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrishaRaj11&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrishaRaj11&layout=compact&theme=radical)  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrishaRaj11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishaRaj11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
+</p>
 
-## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TrishaRaj11&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=TrishaRaj11&theme=radical)](https://git.io/streak-stats)  
 
 ---
