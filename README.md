@@ -16,7 +16,7 @@
 const trisha = {
   education: "B.Tech CSE @ SRMIST (2023–2027)",
   cgpa: "9.78",
-  experience: ["Operations Intern @ ProPeers", "Data Analytics Intern @ Amiga Informatics"],
+  experience: ["Technology Summer Intern @Fiserv" , "Operations Intern @ ProPeers", "Data Analytics Intern @ Amiga Informatics"],
   role: ["Full Stack Developer", "Problem Solver"],
   currentFocus: ["MERN Stack", "Docker", "Scalable Systems"],
   skills: ["DSA", "DBMS", "OOP", "OS", "Computer Networks"],
